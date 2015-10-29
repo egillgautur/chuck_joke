@@ -1,3 +1,4 @@
+[![Build Status](https://github.com/egillgautur/chuck_joke.png)](https://github.com/egillgautur/chuck_joke)
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
